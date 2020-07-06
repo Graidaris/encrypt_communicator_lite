@@ -1,3 +1,31 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Graidaris 
+Graidaris
+/
+encrypt_communicator_lite
+1
+0
+0
+ Code
+ Issues 0
+ Pull requests 0 Actions
+ Projects 0
+ Wiki
+ Security 0
+ Insights
+ Settings
+encrypt_communicator_lite/.gitignore
+@Graidaris Graidaris Initial commit
+6f43120 5 minutes ago
+129 lines (105 sloc)  1.76 KB
+  
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +155,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+test.py
